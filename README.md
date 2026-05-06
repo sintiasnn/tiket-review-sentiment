@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange?logo=tensorflow)
-![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+![Notebook](https://img.shields.io/badge/Notebook-Google%20Colab-orange?logo=googlecolab)
 
 Multi-class sentiment classification on Indonesian-language reviews of the Tiket.com app, using deep learning models (LSTM, GRU, CNN) with traditional ML as baseline.
 
